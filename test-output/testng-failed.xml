@@ -6,7 +6,6 @@
       <class name="testNG.TestCalculation">
         <methods>
           <include name="testToThePowerOf2"/>
-          <include name="testToThePowerOf"/>
         </methods>
       </class> <!-- testNG.TestCalculation -->
     </classes>
